@@ -1,0 +1,11 @@
+D:\Isaias\Documents\Git\Vehiculo 4x4\App Windows\Vehiculo_4x4\bin\Debug\Vehiculo_4x4.exe.config
+D:\Isaias\Documents\Git\Vehiculo 4x4\App Windows\Vehiculo_4x4\bin\Debug\Vehiculo_4x4.exe
+D:\Isaias\Documents\Git\Vehiculo 4x4\App Windows\Vehiculo_4x4\bin\Debug\Vehiculo_4x4.pdb
+D:\Isaias\Documents\Git\Vehiculo 4x4\App Windows\Vehiculo_4x4\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Isaias\Documents\Git\Vehiculo 4x4\App Windows\Vehiculo_4x4\obj\Debug\Vehiculo_4x4.csprojAssemblyReference.cache
+D:\Isaias\Documents\Git\Vehiculo 4x4\App Windows\Vehiculo_4x4\obj\Debug\Vehiculo_4x4.Properties.Resources.resources
+D:\Isaias\Documents\Git\Vehiculo 4x4\App Windows\Vehiculo_4x4\obj\Debug\Vehiculo_4x4.csproj.GenerateResource.cache
+D:\Isaias\Documents\Git\Vehiculo 4x4\App Windows\Vehiculo_4x4\obj\Debug\Vehiculo_4x4.csproj.CopyComplete
+D:\Isaias\Documents\Git\Vehiculo 4x4\App Windows\Vehiculo_4x4\obj\Debug\Vehiculo_4x4.exe
+D:\Isaias\Documents\Git\Vehiculo 4x4\App Windows\Vehiculo_4x4\obj\Debug\Vehiculo_4x4.pdb
+D:\Isaias\Documents\Git\Vehiculo 4x4\App Windows\Vehiculo_4x4\obj\Debug\Vehiculo_4x4.Form1.resources
